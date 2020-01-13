@@ -37,4 +37,5 @@ public class Q2 {
 		people[2] = s3; people[3] = f1; people[4] = f2;
 		System.out.println(countFaculty(people, 150)); // 1
 	}
+	
 }
